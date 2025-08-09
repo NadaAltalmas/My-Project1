@@ -1,0 +1,14 @@
+C:\Users\Nada\Management\bin\Debug\net9.0\Management.exe
+C:\Users\Nada\Management\bin\Debug\net9.0\Management.deps.json
+C:\Users\Nada\Management\bin\Debug\net9.0\Management.runtimeconfig.json
+C:\Users\Nada\Management\bin\Debug\net9.0\Management.dll
+C:\Users\Nada\Management\bin\Debug\net9.0\Management.pdb
+C:\Users\Nada\Management\obj\Debug\net9.0\Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nada\Management\obj\Debug\net9.0\Management.AssemblyInfoInputs.cache
+C:\Users\Nada\Management\obj\Debug\net9.0\Management.AssemblyInfo.cs
+C:\Users\Nada\Management\obj\Debug\net9.0\Management.csproj.CoreCompileInputs.cache
+C:\Users\Nada\Management\obj\Debug\net9.0\Management.dll
+C:\Users\Nada\Management\obj\Debug\net9.0\refint\Management.dll
+C:\Users\Nada\Management\obj\Debug\net9.0\Management.pdb
+C:\Users\Nada\Management\obj\Debug\net9.0\Management.genruntimeconfig.cache
+C:\Users\Nada\Management\obj\Debug\net9.0\ref\Management.dll
