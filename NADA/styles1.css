@@ -67,17 +67,22 @@ input, textarea, button{
 }
 
 @media (max-width: 768px) {
+    body{
+       font-size: 14px;
+    
+    }
     nav u1{
         flex-direction: column;
+        align-items: center;
     }
 }
 
-img, video {
+img {
     max-width: 100%;
     height: auto;
 }
 
-nav u1{
+/*nav u1{
     display: -webkit-flex;
     display: flex;
-}
+}*/
